@@ -1,5 +1,5 @@
 # Description
-This script generates game scripts that can be used in the Total War: ROME REMASTERED modification, which allows you to control multiple game factions.
+This script generates game scripts that can be used in the **Total War: ROME REMASTERED** modification, which allows you to control multiple game factions.
 
 **Note:** Works correctly only if the modification does not have "Emerging Factions" (factions that have in the description "Events will be simulated leading up to the faction's appearance...").
 
